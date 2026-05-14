@@ -1,5 +1,3 @@
-# mshin77.r-universe.dev
-
 Personal R-universe — <https://mshin77.r-universe.dev>
 
 ## Install
@@ -14,4 +12,3 @@ install.packages("a11yviz",
 
 - [a11yviz](https://github.com/mshin77/a11yviz)
 
-Setup reference: <https://docs.r-universe.dev/publish/set-up.html>
