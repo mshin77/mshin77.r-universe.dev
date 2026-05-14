@@ -1,5 +1,3 @@
-Personal R-universe — <https://mshin77.r-universe.dev>
-
 ## Install
 
 ```r
