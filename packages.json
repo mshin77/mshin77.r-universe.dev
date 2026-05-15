@@ -2,5 +2,9 @@
   {
     "package": "a11yviz",
     "url": "https://github.com/mshin77/a11yviz"
+  },
+  {
+    "package": "TextAnalysisR",
+    "url": "https://github.com/mshin77/TextAnalysisR"
   }
 ]
